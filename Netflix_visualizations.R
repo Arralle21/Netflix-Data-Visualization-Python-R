@@ -1,5 +1,3 @@
-setwd("C:\\Users\\Abdullah\\OneDrive\\Documents\\NXU\\Programming using Python and R\\Module 4")
-# Netflix Data Analysis in R
 
 # Load necessary libraries
 library(tidyverse)
@@ -10,7 +8,6 @@ library(stringr)
 library(readr)
 
 # Load the cleaned data
-# Make sure the CSV file is in your working directory or provide the full path
 netflix_data <- read_csv("netflix_cleaned.csv")
 
 
