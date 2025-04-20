@@ -5,7 +5,6 @@
 A comprehensive data analysis project that explores Netflix's content library using both Python and R visualization techniques.
 ### Project Overview
 This project analyzes Netflix's content library dataset to extract insights about content types, genres, ratings, and temporal trends. The analysis is implemented in both Python and R to demonstrate different visualization approaches.
-Author
 
 ### Files in this Repository
 
