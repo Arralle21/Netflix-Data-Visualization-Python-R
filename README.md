@@ -3,11 +3,11 @@
 ### Submission Date: April 20, 2025
 
 A comprehensive data analysis project that explores Netflix's content library using both Python and R visualization techniques.
-Project Overview
+### Project Overview
 This project analyzes Netflix's content library dataset to extract insights about content types, genres, ratings, and temporal trends. The analysis is implemented in both Python and R to demonstrate different visualization approaches.
 Author
 
-Files in this Repository
+### Files in this Repository
 
 netflix_visualization.py - Python script for data preparation, cleaning, and visualization
 Netflix_visualizations.R - R script for complementary data analysis and visualization
@@ -25,19 +25,19 @@ rating_by_type_r.png - R-generated visualization of ratings by content type
 
 
 
-Key Features
+### Key Features
 
 Data Cleaning: Handles missing values and prepares data for analysis
 Exploratory Data Analysis: Provides statistical summaries and distributions
 Visualizations: Creates insightful charts about Netflix content
 Cross-language Implementation: Demonstrates both Python and R approaches
 
-Technologies Used
+### Technologies Used
 
 Python: pandas, matplotlib, seaborn, numpy
 R: tidyverse, ggplot2, dplyr, stringr
 
-How to Run
+### How to Run
 Python Script
 bashpython netflix_visualization.py
 R Script
@@ -50,7 +50,7 @@ Content ratings analysis
 Trends in content additions over time
 Movie duration analysis
 
-Prerequisites
+### Prerequisites
 
 Python 3.x with pandas, matplotlib, seaborn, and numpy
 R with tidyverse, ggplot2, dplyr packages
